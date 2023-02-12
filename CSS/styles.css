@@ -8,3 +8,18 @@ hr {
   width: 30%;
   size: 5;
 }
+
+.profile {
+  background-color: beige;
+}
+
+.circular{
+  border-radius: 100%;
+}
+
+#name:hover{
+  color: black;
+}
+#name{
+  color: purple;
+}
